@@ -1,5 +1,3 @@
-# competishunAssignment
-
 # Technical Assignment - Competishun
 
 This repo consists of 3 small apps which are explained as follows:
